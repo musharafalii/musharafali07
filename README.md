@@ -11,7 +11,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 - 👨‍💻 I’m looking to collaborate in Codechef,hackerearth etc.
 - 📱 Mobile App developer (Learn)
 - 🌐 Exploring Web development.
-- ✍️ Write blogs on [musharafdev](https://musharafdev.blogspot.com/).
+- ✍️ Write blogs on [MsCube Tech](https://mscubetechs.blogspot.com/).
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
 
