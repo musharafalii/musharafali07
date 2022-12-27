@@ -3,7 +3,7 @@
 ![Profile views](https://musharafdev.blogspot.com/)
 
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
+_**LATEST UPDATE:**_ _Exploring Google Analytics Academy_ 🥽.
 
 ### 🎍 Welcome to my hub 👨‍💻
 - 👦 I’m currently working on Full Stack Web Developer
@@ -13,6 +13,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 - 🌐 Exploring Web development.
 - ✍️ Write blogs on [MsCube Tech](https://mscubetechs.blogspot.com/).
 - Loves 🎵 and 🎹.
+- Fun and Enjoy With My Friends
 - Proud 🇮🇳.
 
 
@@ -25,6 +26,6 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://musharafdev.blogspot.com/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:musharafali494@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/musharafali0)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/musharafali0/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/musharaf-ali-446a37242/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/musharafali07/)
