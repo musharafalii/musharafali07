@@ -1,6 +1,6 @@
 # Hi there👋! I'm [Musharaf Ali](https://musharafdev.blogspot.com/) 🙋‍♂️
 
-[Profile views](https://musharafali07.github.io/Portfolio-Website/))
+[Profile views](https://musharafali07.github.io/Portfolio-Website/)
 
 
 _**LATEST UPDATE:**_ _Exploring Google Analytics Academy_ 🥽.
