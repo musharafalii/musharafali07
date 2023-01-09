@@ -13,8 +13,8 @@ _**LATEST UPDATE:**_ _Exploring Google Analytics Academy_ 🥽.
 - 🌐 Exploring Web development.
 - ✍️ Write blogs on [MsCube Tech](https://mscubetechs.blogspot.com/).
 - Loves 🎵 and 🎹.
-- Fun and Enjoy With My Friends
-- Proud 🇮🇳.
+- Fun and Enjoy With My Friends. 
+- Proud 🇵🇰.
 
 
 ### 📊 Github Stats
