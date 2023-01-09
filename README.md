@@ -5,7 +5,7 @@
 
 _**LATEST UPDATE:**_ _Exploring Google Analytics Academy_ 🥽.
 
-### 🎍 Welcome to my hub 👨‍💻
+### 🎍 Welcome to my profile 👨‍💻
 - 👦 I’m currently working on Full Stack Web Developer
 - 💼 I’m currently learning Android Developer
 - 👨‍💻 I’m looking to collaborate in Codechef,hackerearth etc.
