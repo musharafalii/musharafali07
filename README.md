@@ -29,3 +29,9 @@ _**LATEST UPDATE:**_ _Exploring Google Analytics Academy_ 🥽.
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/musharafali0/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/musharaf-ali-446a37242/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/musharafali0/)
+
+  
+  
+| <a href="https://github.com/musharafali07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=musharafali07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Musharaf's github stats" /></a> | <a href="https://github.com/musharafali07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musharafali07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
