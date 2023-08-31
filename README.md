@@ -2,9 +2,6 @@
 
 [Profile views](https://musharafali07.github.io/Portfolio-Website/)
 
-
-_**LATEST UPDATE:**_ _Exploring Google Analytics Academy_ 🥽.
-
 ### 🎍Welcome to my profile👨‍💻
 - 👦 I’m currently working on Full Stack Web Developer
 - 💼 I’m currently learning Android Developer
